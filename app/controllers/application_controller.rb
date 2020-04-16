@@ -1,3 +1,4 @@
 class ApplicationController < ActionController::Base
-	abc
+
+ abc
 end
